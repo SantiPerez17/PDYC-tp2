@@ -1,3 +1,4 @@
 # tp2
  tp2
-aasldasdalskdklasldas
+ 
+ preguntas en pdf y proyecto son los demas archivos. 
